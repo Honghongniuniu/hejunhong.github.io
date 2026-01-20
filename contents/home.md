@@ -1,20 +1,151 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Junhong He](https://img.shields.io/badge/Junhong%20He-github-blue?logo=github)](https://github.com/honghongniuniu)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+**Junhong He (何俊宏)**  
+Shenzhen, China  
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+I am currently an undergraduate student majoring in **Electronics and Computer Engineering** at **Shenzhen MSU-BIT University**.  
+My research focuses on **Artificial Intelligence, Computer Vision, Cloud Computing, and Intelligent Optimization**, with particular interests in **deep learning, reinforcement learning, and AI-driven systems for real-world engineering problems**.
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+---
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+## Contact
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+-  Email: <code>jh.he@smbu.edu.cn</code>  
+-  Location: Shenzhen, China  
 
-#### Research Interests  
-XX, XX, XX, XX.
+---
+
+## Education
+
+**Shenzhen MSU-BIT University**  
+*Honours Bachelor of Electronics and Computer Engineering*  
+Sep 2022 – Jul 2026  
+
+- GPA: **3.92 / 4.0** (Top **5%**, 3rd out of 179 students)  
+- National Scholarship (2024–2025)  
+- Key Courses:  
+  Engineering Mathematics, Probability & Statistics, Data Structures,  
+  Digital Circuits, Signals and Systems, Operating Systems,  
+  Computer Networks, Computer Organization and Architecture,  
+  Software Engineering, Artificial Intelligence  
+
+**Beijing Institute of Technology**  
+*Exchange Student*  
+Aug 2023 – Jan 2024  
+
+- Participated in the **Artificial Intelligence Summer Training Program**  
+- Awarded **Excellent Student Award** (2022–2023)
+
+---
+
+## Research Publications
+
+**Fine-Grained 3D Reconstruction of Urban Building Façades via Window-Driven Semantic Parsing**  
+*Junhong He*, et al.  
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025 — **Accepted**  
+(Second Author)
+
+---
+
+**Dual-Objective Parallel Task Scheduling in Cloud Computing via PPO**  
+*Junhong He*✱, et al.  
+IEEE Transactions on Cloud Computing (TCC), 2025 — **Accepted**  
+✱ Co-First Author
+
+---
+
+**Automated Vegetable Pricing and Replenishment Using MILP and Simulated Annealing**  
+Junhong He, et al.  
+Proceedings of the Chinese Automation Congress (CAC 2025), IEEE (EI Compendex) — **Accepted**  
+(First Author)
+
+---
+
+## Research Experience
+
+### AI Image Generation Technology Research  
+*Team Leader* | Sep 2024 – Sep 2025  
+
+- Reproduced Gaussian noise diffusion models on the CIFAR-10 dataset  
+- Investigated **Dirichlet noise diffusion models** for high-quality image generation  
+- Conducted comparative experiments and evaluation using standard generative metrics  
+
+---
+
+### Concrete Defect Detection Using Machine Learning  
+*Leading Research Assistant* | Jan 2024 – Dec 2024  
+
+- Trained **YOLOv8** models for surface defect detection in concrete  
+- Applied **Skeleton-Distance Transform** algorithms to accurately measure crack widths  
+
+---
+
+### Large-Scale Depression Risk Factor Identification  
+*Leading Research Assistant* | Sep 2022 – Sep 2023  
+
+- Performed data preprocessing including outlier detection, normalization, and normality testing  
+- Assisted in statistical analysis for large-scale mental health datasets  
+
+---
+
+## Project Experience
+
+### Dual-Objective Parallel Task Scheduling in Cloud Computing via PPO  
+Jun 2025  
+
+- Modeled cloud task scheduling as a **Markov Decision Process** with dual objectives (latency & energy)  
+- Designed an end-to-end simulation pipeline including task generation, PPO training, and energy-aware cluster modeling  
+- Achieved **25% reduction in average queueing delay** and **10% energy savings** compared to industrial heuristics  
+
+---
+
+### U.S. College Student Mathematical Modeling Competition (MCM/ICM)  
+*Team Leader* | Jan 2024  
+
+- Applied Random Forest, AHP, TOPSIS, entropy weighting, and run-length tests  
+- Developed a momentum impulse analysis model using MATLAB and Python  
+- Produced a 28-page English paper  
+- **Honorable Mention (H Award)**  
+
+---
+
+### National College Student Mathematical Modeling Competition (China)  
+*Team Leader* | Sep 2023  
+
+- Built automated pricing and replenishment models using PCA, simulated annealing, and MILP  
+- Increased merchant income by **21%**  
+- Awarded **Provincial First Prize**  
+
+---
+
+## Honors & Awards
+
+- National Scholarship (2024–2025)  
+- Individual Award for Scientific and Technological Innovation, Shenzhen MSU-BIT University  
+- Model Student (2023–2024)  
+- Excellent Member of the Communist Youth League (University-Level)  
+- First-Class Scholarship, Shenzhen MSU-BIT University  
+- Excellent Student Award, Beijing Institute of Technology  
+
+---
+
+## Skills
+
+**Programming Languages**  
+- Python, C, C++, MATLAB, SQL  
+
+
+**Tools & Systems**    
+- LaTeX
+- Word, Excel, PowerPoint  
+
+**Languages**  
+- Mandarin (Native)  
+- English (CET-6: 558)
+
+---
+## Research Interests  
+
+• Medical Image Analysis and Computer Vision  
+• Optimization Algorithms 
+• AI Agent
