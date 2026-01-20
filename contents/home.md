@@ -141,7 +141,7 @@ Jun 2025
 
 **Languages**  
 - Mandarin (Native)  
-- English (CET-6: 558)
+- English 
 
 ---
 ## Research Interests  
