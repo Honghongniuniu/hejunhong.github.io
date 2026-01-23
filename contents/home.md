@@ -34,11 +34,7 @@ Sep 2022 – Jul 2026
 Aug 2023 – Jan 2024  
 
 - Participated in the **Artificial Intelligence Summer Training Program**  
-- Awarded **Excellent Student Award** (2022–2023)
-
----
-
-## Research Publications
+- ## Research Publications
 
 **Fine-Grained 3D Reconstruction of Urban Building Façades via Window-Driven Semantic Parsing**  
 *Junhong He*, et al.  
@@ -58,6 +54,8 @@ IEEE Transactions on Cloud Computing (TCC), 2025 — **Accepted**
 Junhong He, et al.  
 Proceedings of the Chinese Automation Congress (CAC 2025), IEEE (EI Compendex) — **Accepted**  
 (First Author)
+
+---Awarded **Excellent Student Award** (2022–2023)
 
 ---
 
