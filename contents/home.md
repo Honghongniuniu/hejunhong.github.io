@@ -1,4 +1,4 @@
-[![Junhong He](https://img.shields.io/badge/Junhong%20He-github-blue?logo=github)](https://github.com/honghongniuniu)
+[![Junhong He](https://img.shields.io/badge/Junhong%20He-github-blue?logo=github)](https://github.com/Junhong-He)
 
 **Junhong He (何俊宏)**  
 Shenzhen, China  
