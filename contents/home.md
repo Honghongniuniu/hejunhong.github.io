@@ -72,13 +72,6 @@ Proceedings of the Chinese Automation Congress (CAC 2025), IEEE (EI Compendex) �
 
 ---
 
-### Concrete Defect Detection Using Machine Learning  
-*Leading Research Assistant* | Jan 2024 – Dec 2024  
-
-- Trained **YOLOv8** models for surface defect detection in concrete  
-- Applied **Skeleton-Distance Transform** algorithms to accurately measure crack widths  
-
----
 
 ### Large-Scale Depression Risk Factor Identification  
 *Leading Research Assistant* | Sep 2022 – Sep 2023  
@@ -115,17 +108,6 @@ Jun 2025
 - Built automated pricing and replenishment models using PCA, simulated annealing, and MILP  
 - Increased merchant income by **21%**  
 - Awarded **Provincial First Prize**  
-
----
-
-## Honors & Awards
-
-- National Scholarship (2024–2025)  
-- Individual Award for Scientific and Technological Innovation, Shenzhen MSU-BIT University  
-- Model Student (2023–2024)  
-- Excellent Member of the Communist Youth League (University-Level)  
-- First-Class Scholarship, Shenzhen MSU-BIT University  
-- Excellent Student Award, Beijing Institute of Technology  
 
 ---
 
