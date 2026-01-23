@@ -1,10 +1,10 @@
-- 国家奖学金, 2025.  
+- **National Scholarship**, 2025.  
 
-- 校级学业一等奖学金, 2023，2024，2025.
+- **First-Class Academic Scholarship (University Level)**, 2023, 2024, 2025.  
 
-- 校级优秀学生标兵2024，2025.
+- **Outstanding Student Model (University Level)**, 2024, 2025.  
 
-- 美国大学生数学建模竞赛H奖, 2024.
+- **Honorable Mention (H Award)**, Mathematical Contest in Modeling (MCM/ICM), USA, 2024.  
 
-- 全国大学生数学建模竞赛广东省省级一等奖, 2023.
-  
+- **First Prize (Provincial Level, Guangdong)**, National Undergraduate Mathematical Contest in Modeling, 2023.
+
